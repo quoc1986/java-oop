@@ -8,7 +8,7 @@ public class Variable {
         System.out.println(Short.MAX_VALUE);
 
         float myFloatnumber = 2.1f;
-        float myFloatnumber = 3.1f;
+
 
 
 

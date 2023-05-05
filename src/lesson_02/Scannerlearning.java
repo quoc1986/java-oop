@@ -1,9 +1,11 @@
 package lesson_02;
 
-public class Scanner {
+import java.util.Scanner;
+
+public class Scannerlearning {
     public static void main(String[] args) {
 
-        java.util.Scanner scanner = new java.util.Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Please insert a number: ");
         int inputNumber = scanner.nextInt();
         System.out.printf("your nunber is: %d\n", inputNumber);
